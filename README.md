@@ -23,7 +23,7 @@ Duct acoustics; Finite element method; Acoustic reflection coefficient; Modal de
 [Read the full thesis (PDF)](1-Undergraduate_thesis_jiaju_Effect%20of%20Duct-End%20Reflection%20Coefficient%20on%20Axial-Fan%20Noise.pdf)
 
 ---
-
+## 2. Master Thesis
 My master's thesis is coming soon :)
 
 A sneak peek: Axial Fan Noise Control.
